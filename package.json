@@ -1,0 +1,19 @@
+{
+  "name": "symbol",
+  "version": "1.0.0",
+  "description": "Pruebas Automatizadas del sistema de Symbol ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "symbol"
+  ],
+  "author": "Karolaith Orozco",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
